@@ -1,0 +1,24 @@
+form {
+    margin: 10px;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+
+#contact-list {
+    margin: 10px;
+}
+
+.contact {
+    background-color: lightgrey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
